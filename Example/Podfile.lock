@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.4.0)
+  - CryptoSwift (1.0.0)
+  - PayMESDK (0.0.12):
+    - Alamofire
+    - CryptoSwift (= 1.0)
+    - SwiftyRSA (= 1.5)
+  - SwiftyRSA (1.5.0):
+    - SwiftyRSA/ObjC (= 1.5.0)
+  - SwiftyRSA/ObjC (1.5.0)
+
+DEPENDENCIES:
+  - PayMESDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - SwiftyRSA
+
+EXTERNAL SOURCES:
+  PayMESDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  CryptoSwift: d81eeaa59dc5a8d03720fe919a6fd07b51f7439f
+  PayMESDK: 2d647be10e63eb7e8f54c84f00e518c322c4df90
+  SwiftyRSA: 6e528fb1b1a87d5111c48081083b141d6d65f1cf
+
+PODFILE CHECKSUM: dd49d43a514849d681e35d3453632c130cbe3362
+
+COCOAPODS: 1.9.3

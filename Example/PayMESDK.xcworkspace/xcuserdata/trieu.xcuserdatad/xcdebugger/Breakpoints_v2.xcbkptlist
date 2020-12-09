@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EBAC7E13-6F6D-419D-B6F4-CCC2C0B75525"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEE9E373-89B3-4A2E-AAA6-34D58345BBC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../PayMESDK/Classes/Source/PayME/SampleController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77ACD7D1-0A24-4C65-9612-FA835E86EF0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../PayMESDK/Classes/Source/camera/QRScannerController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "QRScannerController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "77ACD7D1-0A24-4C65-9612-FA835E86EF0D - d355b039d3d61fb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIButton in variable initialization expression of PayMESDK.QRScannerController.getPhoto : __C.UIButton"
+                  moduleName = "PayMESDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trieu/Desktop/paymesdk-ios/paymesdk-ios/PayMESDK/Classes/Source/camera/QRScannerController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "77ACD7D1-0A24-4C65-9612-FA835E86EF0D - 73ce65c772f4509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayMESDK.QRScannerController.getPhoto.getter : __C.UIButton"
+                  moduleName = "PayMESDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trieu/Desktop/paymesdk-ios/paymesdk-ios/PayMESDK/Classes/Source/camera/QRScannerController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "77ACD7D1-0A24-4C65-9612-FA835E86EF0D - b778bf9dbaaeca30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayMESDK.QRScannerController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PayMESDK.QRScannerController"
+                  moduleName = "PayMESDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trieu/Desktop/paymesdk-ios/paymesdk-ios/PayMESDK/Classes/Source/camera/QRScannerController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "77ACD7D1-0A24-4C65-9612-FA835E86EF0D - 86336a9d32914bff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayMESDK.QRScannerController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PayMESDK.QRScannerController&gt;"
+                  moduleName = "PayMESDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trieu/Desktop/paymesdk-ios/paymesdk-ios/PayMESDK/Classes/Source/camera/QRScannerController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

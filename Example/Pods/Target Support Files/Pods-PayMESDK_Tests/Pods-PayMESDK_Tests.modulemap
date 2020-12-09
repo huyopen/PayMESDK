@@ -1,0 +1,6 @@
+framework module Pods_PayMESDK_Tests {
+  umbrella header "Pods-PayMESDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
