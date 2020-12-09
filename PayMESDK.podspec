@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PayMESDK'
-  s.version          = '0.0.1'
+  s.version          = '0.0.13'
   s.summary          = 'PayME SDK là bộ thư viện để các app có thể tương tác với PayME Platform. PayME SDK bao gồm các chức năng chính như sau.'
   s.swift_versions   = '4.2'
 
